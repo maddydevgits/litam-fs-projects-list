@@ -11,4 +11,10 @@
     <td></td>
     <td><a href="https://github.com/maddydevgits/celebrity-face-recognition/tree/master">Code Repo</td>
   </tr>
+  <tr>
+    <td>2</td>
+    <td>Eye Disease Detector Web App</td>
+    <td></td>
+    <td><a href="">Code Repo</td>
+  </tr>
 </table>
