@@ -9,6 +9,6 @@
     <td>1</td>
     <td>Celebrity Recognition System</td>
     <td></td>
-    <td></td>
+    <td><a href="https://github.com/maddydevgits/celebrity-face-recognition/tree/master">Code Repo</td>
   </tr>
 </table>
