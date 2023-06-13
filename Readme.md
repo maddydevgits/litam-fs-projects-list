@@ -21,6 +21,6 @@
     <td>3</td>
     <td>Twitter Sentimental Analysis</td>
     <td></td>
-    <td><a href="">Code Repo</td>
+    <td><a href="https://github.com/maddydevgits/twitter-sentimental-analysis/tree/master">Code Repo</td>
   </tr>
 </table>
