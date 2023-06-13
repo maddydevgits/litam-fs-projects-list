@@ -17,4 +17,10 @@
     <td></td>
     <td><a href="https://github.com/maddydevgits/eye-disease">Code Repo</td>
   </tr>
+  <tr>
+    <td>3</td>
+    <td>Twitter Sentimental Analysis</td>
+    <td></td>
+    <td><a href="">Code Repo</td>
+  </tr>
 </table>
