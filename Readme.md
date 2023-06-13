@@ -15,6 +15,6 @@
     <td>2</td>
     <td>Eye Disease Detector Web App</td>
     <td></td>
-    <td><a href="">Code Repo</td>
+    <td><a href="https://github.com/maddydevgits/eye-disease">Code Repo</td>
   </tr>
 </table>
